@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Application-Performance-Monitoring?style=flat-square&color=blue" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Performance-Monitoring?style=flat-square&color=gold" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Performance-Monitoring?style=flat-square&color=gold" alt="GitHub_Stars"/>
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Application-Performance-Monitoring?style=flat-square&color=green" alt="License"/><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -55,7 +55,7 @@ The following table compares top commercial APM platforms ranked by company scal
 
 Open-source APM tools empower engineering teams to deploy vendor-neutral instrumentation, self-host telemetry data, and maintain full compliance over sensitive logs, metrics, and distributed traces.
 
-The open-source APM projects below are ranked by **GitHub Star Count (Descending)**:
+The open-source APM projects below are ranked by **GitHub Stars_Count (Descending)**:
 
 1. **[OpenTelemetry](https://github.com/open-telemetry)** 
    [![OpenTelemetry Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-specification?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-specification/stargazers)  
